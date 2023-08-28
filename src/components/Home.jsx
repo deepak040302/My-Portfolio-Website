@@ -1,7 +1,8 @@
 import React from "react";
-import { FaGithub, FaLinkedin, FaArrowDown ,FaInstagram} from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaArrowDown, FaInstagram } from "react-icons/fa";
 import { MdAttachEmail } from "react-icons/md";
 import avatar from "../assets/avatar.png";
+import Abc from "./New";
 // import TypingAnimation from "../components/TypingAnimation";
 
 const Home = () => {
@@ -41,11 +42,11 @@ const Home = () => {
       className="min-h-screen flex flex-col items-center p-5 text-center"
     >
       <h1 className="text-2xl  text-rose-600 font-bold">Hi There , I'm</h1>
-      <h1 className=" text-5xl  text-rose-600 font-bold font-signature mt-2">Deepak Nishad</h1>
-      <h2 className=" pt-6 text-3xl font-bold">
-        I am a <br />
-        Competative Programmer
-        {/* <TypingAnimation/> */}
+      <h1 className=" text-5xl  text-rose-600 font-bold font-signature mt-2">
+        Deepak Nishad
+      </h1>
+      <h2 className=" pt-6 text-3xl font-bold">I am a
+      <Abc className="text-teal-500"/>
       </h2>
 
       {/* social icons */}
