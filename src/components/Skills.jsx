@@ -3,9 +3,6 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-// import nextjs from "../assets/nextjs.png";
-// import graphql from "../assets/graphql.png";
-import github from "../assets/github.png";
 import python from "../assets/python.png";
 import Cpp from "../assets/C++.png";
 import algorithms from "../assets/algorithms.png";
@@ -60,12 +57,6 @@ const Experience = () => {
       src: algorithms,
       title: "Algorithms",
       style: "shadow-green-400",
-    },
-    {
-      id: 9,
-      src: github,
-      title: "GitHub",
-      style: "shadow-gray-500",
     },
   ];
 
