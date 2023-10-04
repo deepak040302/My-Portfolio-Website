@@ -1,3 +1,6 @@
+# Link to open my portfolio website
+https://portfolio-deepak02.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
